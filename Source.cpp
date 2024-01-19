@@ -1,5 +1,4 @@
 //std-name: Saadet Elizaveta Babal
-//std-id: 2200003366
 
 #include <iostream>//This line contains the input/output stream library and provides functionality to read and write from standard input/output streams. That's why I used it.
 #include <string>//This line contains the string library and provides functions and classes for working with arrays. That's why I used it.
